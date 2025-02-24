@@ -25,7 +25,7 @@ export default function CaseStudyPage({ item }: CaseStudyPageProps) {
   return (
     <main className="min-h-screen flex flex-col bg-gray-100 ">
     <Header />
-      <div className="flex flex-col items-center justify-center p-6 m-auto">
+      <div className="flex flex-col items-center justify-center p-6 m-auto w-full">
         <div className="flex flex-col sm:flex-row gap-16 content-wrapper max-w-[1200px] w-screen p-6 flex-wrap">
             <div className="flex flex-col sm:flex-row gap-16 flex-wrap items-center mt-16">
             <div className="sm:max-w-[50%] w-full sm:w-[50%] animate-fade transition-all ease-in-out duration-300">
