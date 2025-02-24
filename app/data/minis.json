@@ -1,0 +1,308 @@
+[
+  {
+    "id": "ai-generated-media-for-awards",
+    "template": "mini",
+    "link": "https://youtu.be/f8NUkPZMg98",
+    "target": "_blank",
+    "img": "/works/img/AIMedia.png",
+    "title": "AI Generated Media for Awards",
+    "shorthand": "AI Media",
+    "content": "Workhuman held an AI Hackathon where we formed a small team to tackle a problem in the workplace. Our team had 1 week to design and develop this feature for Workhuman's award system. The live demo uses DALLE-2, OpenAI, Next.js, Python, and Typescript."
+  },
+  {
+    "id": "codedex-summer-hackathon-2024",
+    "template": "mini",
+    "link": "https://codedexsummerhackathon.vercel.app/",
+    "target": "_blank",
+    "img": "/works/img/codedex-hackathon.jpg",
+    "title": "Codedex Summer Hackathon 2024",
+    "shorthand": "Codedex Hackathon",
+    "content": "I participated in my first solo 24-hour hackathon with CodeDex, building Sip & Play, a reimagined board game café website designed for community engagement with playful interactions. While I successfully implemented Three.js for subtle visual enhancements, I spent most of my time making a modular and reusable design. Leveraging React, TypeScript, Chakra UI, and Algolia, I delivered a functional and engaging experience within the time constraints."
+  },
+  {
+    "id": "workhuman-live-austin-2024",
+    "template": "mini",
+    "link": "/works/WHLAustin24.pdf",
+    "target": "_blank",
+    "img": "/works/img/WHLAustin24.png",
+    "shorthand": "Workhuman Live Austin",
+    "title": "Workhuman Live Austin 2024",
+    "content": "Our team enhanced the best features from the San Diego project and elevated the entire experience for the Austin event. It boasts a fresh, modern design that aptly reflects both the city's vibe and the essence of the event."
+  },
+  {
+    "id": "workhuman-live-san-diego-2023",
+    "template": "mini",
+    "link": "/works/WHLSanDiego23.pdf",
+    "target": "_blank",
+    "img": "/works/img/WHLSanDiego23.png",
+    "shorthand": "Workhuman Live San Diego",
+    "title": "Workhuman Live San Diego 2023",
+    "content": "Our team developed a website for the Workhuman Live HR conference in San Diego. The site's visually stunning design showcases the city's iconic landmarks and immerses visitors in the conference's location."
+  },
+  {
+    "id": "kinetic-seeds",
+    "template": "mini",
+    "link": "/works/kineticseeds.pdf",
+    "target": "_blank",
+    "img": "/works/img/KSLogo.jpg",
+    "title": "Kinetic Seeds",
+    "content": "I redesigned Kinetic Seeds' website and refreshed their brand to help them stand out in their market. The new site features a unique look and style, and focuses on tackling educational challenges. * The PDF is work recovered through the Wayback Machine, what I had built has since been removed."
+  },
+  {
+    "id": "mp",
+    "template": "mini",
+    "link": "/works/MP.pdf",
+    "target": "_blank",
+    "img": "/works/img/mp.jpg",
+    "title": "MP",
+    "content": "I worked to create a comprehensive website for MP, showcasing their unique solutions, company info, and a wealth of content tailored for an HR audience. This was done through a complete website rebuild, brand new eBooks, and an SEO focused approach. * The web pages found in the PDF is work recovered through the Wayback Machine, what I had built has since been removed."
+  },
+  {
+    "id": "dodough",
+    "template": "mini",
+    "link": "/works/DoDough.pdf",
+    "target": "_blank",
+    "img": "/works/img/dodough.jpg",
+    "title": "DoDough",
+    "content": "I designed the brand for DoDough, a bakery specializing in donuts. The color palette was inspired by French macarons, resulting in a light pastel look. The brand adapts to the flavors of the week, incorporating the corresponding colors and wording."
+  },
+  {
+    "id": "futura-garamond",
+    "template": "mini",
+    "link": "/works/FuturaGaramond.pdf",
+    "target": "_blank",
+    "img": "/works/img/futura-garamond.jpg",
+    "title": "Futura & Garamond",
+    "content": "I designed posters that showcase the fonts Futura and Garamond, highlighting their history and unique characteristics. I used geometric shapes to reflect Futura. For Garamond, I used the font's unique letterforms to reflect its Parisian origins."
+  },
+  {
+    "id": "hollow-city",
+    "template": "mini",
+    "link": "/works/HollowCity.pdf",
+    "target": "_blank",
+    "img": "/works/img/hollow-city.jpg",
+    "title": "Hollow City",
+    "content": "I designed a new cover for Miss Peregrine's Home for Peculiar Children Hollow City. The cover features an image of a peregrine, which is central to the book's story and title, and a stopwatch, which represents the plot."
+  },
+  {
+    "id": "sugarsweet",
+    "template": "mini",
+    "link": "/works/Sugarsweet.pdf",
+    "target": "_blank",
+    "img": "/works/img/Sugarsweet.jpg",
+    "title": "Sugarsweet",
+    "content": "The Sugarsweet Company was inspired by the Japanese Ramune company Shirakiku and its iconic Ramune beverages."
+  },
+  {
+    "id": "full-circle",
+    "template": "mini",
+    "link": "/works/FullCircle.pdf",
+    "target": "_blank",
+    "img": "/works/img/full-circle.jpg",
+    "title": "Full Circle",
+    "content": "I designed the brand and packaging for Full Circle, an organic hygiene brand. The name Full Circle represents the brand's closed-loop approach of reusing bottles, which can be done with a one-time purchase or a monthly subscription fee."
+  },
+  {
+    "id": "workhuman-live-forum-london-2023",
+    "template": "mini",
+    "link": "/works/WHLForum23.pdf",
+    "target": "_blank",
+    "img": "/works/img/WHLForum23.png",
+    "shorthand": "London Forum 2023",
+    "title": "Workhuman Live Forum | London 2023",
+    "content": "Our team designed a dynamic website for the Workhuman Live Forum in London, emphasizing humanity's role in the workplace. The site facilitated the exchange of innovative strategies among industry leaders and HR professionals."
+  },
+  {
+    "id": "java-cs526-projects",
+    "template": "mini",
+    "link": "https://xfhooo.csb.app/#/projects/CS526",
+    "target": "_blank",
+    "img": "/works/img/javaprojects.jpg",
+    "shorthand": "Java Projects",
+    "title": "Java - CS526 Projects",
+    "content": "This course covers and relates fundamental components of programs. I used various data structures to solve computational problems, and implement data structures using Java. Algorithms are created, decomposed, and expressed as pseudocode."
+  },
+  {
+    "id": "vue-cs601-projects",
+    "template": "mini",
+    "link": "https://xfhooo.csb.app/#/projects/CS601",
+    "target": "_blank",
+    "img": "/works/img/vueprojects.jpg",
+    "shorthand": "Vue.js Projects",
+    "title": "Vue.js - CS601 Projects",
+    "content": "This course provides an introduction to developing websites and web-based applications. I created an online portfolio by using a variety of foundational web technologies. This Vue portfolio contains different Vue projects as well as Java work."
+  },
+  {
+    "id": "workhuman-spotlight-q3-22",
+    "template": "mini",
+    "link": "/works/Spotlight.pdf",
+    "target": "_blank",
+    "img": "/works/img/spotlight.png",
+    "shorthand": "Workhuman Spotlight",
+    "title": "Workhuman Spotlight Q3 '22",
+    "content": "I developed the Workhuman Spotlight landing page for the Reshaping the workplace and the world episode in August '22. This featured animations, unique flows, and interactive carousels."
+  },
+  {
+    "id": "visionary",
+    "template": "mini",
+    "link": "https://xd.adobe.com/view/33551c2d-dd7b-4b26-427f-fc11172e2a34-4564/?fullscreen",
+    "target": "_blank",
+    "img": "/works/img/visionary.jpg",
+    "title": "Visionary",
+    "content": "I designed and developed a concept for a habit tracking app called Visionary. One of the main challenges was to create a seamless connection between project tracking and habit tracking by implementing milestones that can be set and tracked."
+  },
+  {
+    "id": "new-york-neighborhood",
+    "template": "mini",
+    "link": "/works/NewYorkNeighborhood.pdf",
+    "img": "/works/img/NYN.jpg",
+    "target": "_blank",
+    "title": "New York Neighborhood",
+    "content": "I designed deliverables for New York Neighborhood, including catering menus and tickets. These tickets were designed to replicate the look of subway metro cards while the catering menu encompassed the city skyline."
+  },
+  {
+    "id": "bingeworthy",
+    "template": "mini",
+    "link": "http://bingeworthy.infinityfreeapp.com/",
+    "target": "_blank",
+    "img": "/works/img/bingeworthy.jpg",
+    "title": "Bingeworthy",
+    "content": "I developed a microsite called Bingeworthy, which is a review site for people learning how to cook at home during quarantine. I reviewed 5 recipes from Andrew Rea's Binging with Babish, and recreated them using whatever ingredients I had at home."
+  },
+  {
+    "id": "cosimini-coaching",
+    "template": "mini",
+    "link": "/works/CosiminiCoaching.pdf",
+    "target": "_blank",
+    "img": "/works/img/cosimini-coaching.jpg",
+    "title": "Cosimini Coaching",
+    "content": "I developed a website for Cosimini Coaching, a coaching and counseling services provider. The website features clean and professional designs that showcase services and allows potential clients to easily access information. Website is currently offline."
+  },
+  {
+    "id": "tim-cox",
+    "template": "mini",
+    "link": "https://vimeo.com/328321554",
+    "target": "_blank",
+    "img": "/works/img/tim-cox.jpg",
+    "title": "Tim Cox",
+    "content": "I created a video that captures the life and career of Tim Cox, a renowned designer. The video showcases his design process, inspiration and how he evolved over time throughout his struggles."
+  },
+  {
+    "id": "igt",
+    "template": "mini",
+    "link": "/works/IGT.pdf",
+    "target": "_blank",
+    "img": "/works/img/igt.jpg",
+    "title": "IGT",
+    "content": "At IGT, I designed ads in support of organizations such as Boys & Girls Club and the Providence Public Library. I also designed badges displayed on IGT's gaming machines and created patterns for banners and icons that were used on internal manager blogs."
+  },
+  {
+    "id": "buongiorno",
+    "template": "mini",
+    "link": "https://buongiorno-lilac.vercel.app/",
+    "target": "_blank",
+    "img": "/works/img/buongiorno.jpg",
+    "title": "Buongiorno",
+    "content": "This is a mini photography/web archive from a trip to Italy. We explored Rome mainly, while Florence, Naples, and the Amalfi Coast were all day trips. If you just want to see the images and videos, scroll all the way to the end and there is a masonry display of everything I saw."
+  },
+  {
+    "id": "burn-box",
+    "template": "mini",
+    "link": "/works/burnbox.pdf",
+    "target": "_blank",
+    "img": "/works/img/burnbox.jpg",
+    "title": "Burn Box",
+    "content": "Burn Box is a candle subscription service. The variety of styles and themes are related to pop culture and geographic locations. I aimed to create a cohesive look and feel across all elements of the branding that would stand out and draw attention."
+  },
+  {
+    "id": "bojack-horseman",
+    "template": "mini",
+    "link": "https://vimeo.com/332264587",
+    "target": "_blank",
+    "img": "/works/img/bojack-horseman.jpg",
+    "title": "BoJack Horseman",
+    "content": "I illustrated and edited an animation of each character from BoJack Horseman in a title sequence. The illustrations capture each character's personality, and the editing is simple yet on-beat to capture the audience."
+  },
+  {
+    "id": "rhino-sanction",
+    "template": "mini",
+    "link": "/works/Rhino-Sanction.pdf",
+    "target": "_blank",
+    "img": "/works/img/rhinosanction.jpg",
+    "title": "Rhino Sanction",
+    "content": "Rhino Sanction is a Design for Good campaign, inspired by my early years volunteering at Heifer Farms. I wanted to capture the amazing experiences I had while working there and use my skills as a graphic designer to raise awareness."
+  },
+  {
+    "id": "breaking-the-stigma",
+    "template": "mini",
+    "link": "https://vimeo.com/414282399",
+    "target": "_blank",
+    "img": "/works/img/stigma.jpg",
+    "title": "Breaking the Stigma",
+    "content": "I created an awareness video for mental illness using stop motion animation that we called Breaking the Stigma. The goal of the video was to raise awareness and bring attention to the subject in a unique and impactful way."
+  },
+  {
+    "id": "equinox",
+    "template": "mini",
+    "link": "/works/Equinox.pdf",
+    "target": "_blank",
+    "img": "/works/img/equinox.jpg",
+    "title": "Equinox",
+    "content": "I created design deliverables for JWU Equinox concert event as a part of the design solutions team. My contributions include social media ads, wristbands, and handbills that all incorporated the equinox concept provided by the."
+  },
+  {
+    "id": "outland",
+    "template": "mini",
+    "link": "/works/outland.pdf",
+    "target": "_blank",
+    "img": "/works/img/Outland.jpg",
+    "title": "Outland",
+    "content": "I designed the geometric postcard for Outland, a fine dining pop-up restaurant. My main task was to create a design that would engage customers and generate interest in the restaurant."
+  },
+  {
+    "id": "the-cantina",
+    "template": "mini",
+    "link": "/works/thecantina.pdf",
+    "target": "_blank",
+    "img": "/works/img/The_Cantina.jpg",
+    "title": "The Cantina",
+    "content": "I led the concept and design of the branding and menus for a pop-up restaurant called The Cantina, inspired by Star Wars. I created death star info cards and survey forms, which were a unique addition to the overall experience of the restaurant."
+  },
+  {
+    "id": "providence-community-acupuncture",
+    "template": "mini",
+    "link": "https://pca-pins.com/",
+    "target": "_blank",
+    "img": "/works/img/PCA.jpg",
+    "shorthand": "PCA",
+    "title": "Providence Community Acupuncture",
+    "content": "I worked as a graphic designer and web designer on PCA Pins, an acupuncture company. The design of the website and flyers were focused on highlighting the company's expertise and services in a clean and professional way."
+  },
+  {
+    "id": "el-vaquero",
+    "template": "mini",
+    "link": "/works/elvaquero.pdf",
+    "target": "_blank",
+    "img": "/works/img/El_Vaquero.jpg",
+    "title": "El Vaquero",
+    "content": "I designed the branding and menu for a pop-up restaurant called El Vaquero, which specialized in Tex-Mex cuisine. The logo is based off of a cowboy and the menu showcases the restaurant's offerings in an attractive and easy-to-read format."
+  },
+  {
+    "id": "down-and-gritty",
+    "template": "mini",
+    "link": "/works/down-and-gritty.pdf",
+    "target": "_blank",
+    "img": "/works/img/DownandGritty.jpg",
+    "title": "Down & Gritty",
+    "content": "I designed the tickets and brochure for Down & Gritty, a southern cooking pop-up restaurant. My task was to create a design that would effectively communicate the unique experience of dining at the restaurant with a cohesive look and feel."
+  },
+  {
+    "id": "vida-y-muerte",
+    "template": "mini",
+    "link": "/works/vidaymuerte.pdf",
+    "target": "_blank",
+    "img": "/works/img/Vida_y_Muerte.jpg",
+    "title": "Vida y Muerte",
+    "content": "I designed the gravestone menus for Vida y Muerte, a pop-up restaurant based on the Day of the Dead theme. The unique aspect of this project was creating the gravestone menus that stood up on the table and folded open to reveal a menu inside."
+  }
+]
