@@ -2,7 +2,26 @@ import ThreeDButton from "./3DButton";
 import Header from "./Header";
 import Image from "next/image";
 
-export default function CaseStudyPage({ item }: { item: any }) {
+interface CaseStudyPageProps {
+  item: CaseStudyItem;
+}
+
+export interface CaseStudyItem {
+  id: string;
+  template: string;
+  link?: string; // Optional in case some items don't have links
+  target?: string; // "_blank" for external links
+  img: string;
+  shorthand?: string; // Optional, since not all items have this
+  title: string;
+  overview: string;
+  challenge: string;
+  solution: string;
+  tools: string[];
+}
+
+
+export default function CaseStudyPage({ item }: CaseStudyPageProps) {
   return (
     <main className="min-h-screen flex flex-col bg-gray-100 ">
     <Header />

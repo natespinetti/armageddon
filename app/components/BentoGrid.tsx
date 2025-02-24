@@ -26,8 +26,8 @@ export default function BentoGrid() {
         >
           <div className="p-6 h-full flex flex-col">
             <Image src={"./NSLogo.svg"} alt={"Nathan Spinetti Logo"} width={70} height={70} className="rounded-lg sm:w-[100px] sm:h-[100px]" />
-            <p className="text-text mt-[auto] pt-4 sm:pt-0 text-base sm:text-lg">I'm Nathan, a developer from Boston specializing in React, Next.js, and AWS. 
-                I’m passionate about clean UI, AI, accessibility, and scalable full stack web apps.
+            <p className="text-text mt-[auto] pt-4 sm:pt-0 text-base sm:text-lg">I&apos;m Nathan, a developer from Boston specializing in React, Next.js, and AWS. 
+                I&apos;m passionate about clean UI, AI, accessibility, and scalable full stack web apps.
             </p>
           </div>
         </motion.div>

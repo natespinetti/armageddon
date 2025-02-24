@@ -1,11 +1,9 @@
 "use client";
 
-import Link from "next/link";
 import items from "../data/minis.json"; // Import JSON data
 import casestudies from "../data/casestudies.json"; // Import JSON data
 import MiniProject from "../components/MiniProject";
 import Header from "../components/Header";
-import { motion } from "framer-motion";
 import CaseStudyPreview from "../components/CaseStudyPreview";
 
 export default function Works() {
@@ -25,7 +23,7 @@ export default function Works() {
         <div className="animate-fade underline underline-offset-4 mt-8 text-text font-black tracking-wider text-4xl w-full decoration-gold relative overflow-hidden items-center min-h-[70px] p-6 ease-in-out duration-300">
             Mini works
         </div>
-        {items.map((item, index) => (
+        {items.map((item) => (
           <MiniProject key={item.id} classes={'w-full sm:w-[calc(33.333%-12px)]'} img={`${item.img}`} imgsize={"cover"} imgpos={"center"} buttonname={`${item.shorthand || item.title}`} buttonlink={`/works/${item.id}`}></MiniProject>
         ))}
         </div>

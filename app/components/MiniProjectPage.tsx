@@ -2,7 +2,23 @@ import ThreeDButton from "./3DButton";
 import Header from "./Header";
 import Image from "next/image";
 
-export default function MiniProjectPage({ item }: { item: any }) {
+interface MiniProjectPageProps {
+  item: MiniProjectItem;
+}
+
+export interface MiniProjectItem {
+  id: string;
+  template: string;
+  link?: string; // Optional if some projects don't have links
+  target?: string; // "_blank" for external links
+  img: string;
+  title: string;
+  shorthand?: string; // Optional if not all projects have this
+  content: string;
+}
+
+
+export default function MiniProjectPage({ item }: MiniProjectPageProps) {
   return (
     <main className="min-h-screen flex flex-col bg-gray-100 ">
     <Header />
