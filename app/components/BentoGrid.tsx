@@ -74,7 +74,7 @@ export default function BentoGrid() {
                 hover:shadow-[0_5px_24px_0px_rgba(100,100,111,0.1)] ease-in-out duration-300`}
             layout
             >
-                <a href="/works" className="w-full h-full flex items-center justify-center text-text text-lg sm:text-3xl font-semibold gap-4">View more
+                <a href="/works" className="w-full h-full flex items-center justify-center text-text text-lg sm:text-3xl font-semibold gap-4">View works
                     <div className="w-4 h-4 sm:w-6 sm:h-6 flex"><FontAwesomeIcon icon={faArrowUpRightFromSquare} className="text-base sm:text-2xl" /></div>
                 </a>
             </motion.div>
