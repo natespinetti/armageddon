@@ -25,7 +25,7 @@ export default function LogoCarousel() {
         className="flex items-center flex-row gap-16 w-[200%]"
         initial={{ x: 0 }}
         animate={{ x: "-50%" }}
-        transition={{ ease: "linear", duration: 50, repeat: Infinity }}
+        transition={{ ease: "linear", duration: typeof window !== "undefined" && window.innerWidth < 768 ? 5 : 50, repeat: Infinity }}
       >
         {duplicatedLogos.map((logo, index) => (
           <Image key={index} src={logo} alt="Logo" width={100} height={100} className="w-[250px] max-h-[100px] min-w-[200px] h-auto object-contain" />
