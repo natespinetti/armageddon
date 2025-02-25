@@ -12,7 +12,7 @@ interface ThreeDButtonProps {
 
 export default function ThreeDButton({ children, href, onClick, newTab = false }: ThreeDButtonProps) {
   const buttonClasses =
-    "relative w-full px-3 py-2 sm:px-6 sm:py-3 text-sm sm:text-lg text-text bg-gold rounded-lg font-semibold text-center ease-in-out hover:bg-[#f2c713] duration-3";
+    "relative w-fit px-3 py-2 sm:px-6 sm:py-3 text-sm sm:text-lg text-text bg-gold rounded-lg font-semibold text-center ease-in-out hover:bg-[#f2c713] duration-3";
 
   const motionProps = {
     initial: { y: 2, boxShadow: "0px 4px 0px rgba(0, 0, 0, 0.3)" },
