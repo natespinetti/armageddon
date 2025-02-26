@@ -1,5 +1,23 @@
 [
   {
+    "id": "magic",
+    "template": "mini",
+    "link": "https://magic-ten.vercel.app/",
+    "target": "_blank",
+    "img": "/works/img/Magic.jpg",
+    "title": "Magic+",
+    "content": "I created Magic+, a mobile weather app built with Angular. It's tailor-made for Disney fans, showcasing detailed day/night cycles and whimsical illustrations that reflect each Disney park around the world. Perfect for those planning their next adventure!"
+  },
+  {
+    "id": "pokemon-generations",
+    "template": "mini",
+    "link": "/works/Pokemon-Generations-CLI-Game.zip",
+    "target": "_blank",
+    "img": "/works/img/Pokemon_Generations.png",
+    "title": "Pokemon Generations",
+    "content": "Pokemon Generations is a Python-based game featuring a unique Pokemon Matchmaker, pairing players with a team for wild battles. Soon expanding to PyGame, it will include trainer battles, enhancing the gameplay experience."
+  },
+  {
     "id": "ai-generated-media-for-awards",
     "template": "mini",
     "link": "https://youtu.be/f8NUkPZMg98",

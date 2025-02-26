@@ -1,0 +1,36 @@
+[
+  {
+    "id": "magic",
+    "template": "casestudy",
+    "link": "https://magic-ten.vercel.app/",
+    "target": "_blank",
+    "img": "/works/img/Magic.jpg",
+    "img2": "",
+    "img3": "",
+    "img4": "",
+    "img5": "",
+    "video": "",
+    "title": "Magic+",
+    "overview": "I created Magic+, a mobile weather app built with Angular. It's tailor-made for Disney fans, showcasing detailed day/night cycles and whimsical illustrations that reflect each Disney park around the world. Perfect for those planning their next adventure!",
+    "challenge": "The challenge was to develop a location-specific weather app that not only provided essential weather data but also delivered an engaging, immersive experience tailored to Disney parks. Unlike standard weather apps, Magic+ needed to integrate unique animations and design elements that would capture the magic of Disney while ensuring users had all the necessary information to plan their day. Additionally, the app had to be intuitive and fast, allowing users to seamlessly switch between different parks while keeping the experience visually dynamic.",
+    "solution": "To bring the Disney magic to life, I built a single-page application (SPA) with Angular, ensuring smooth transitions and efficient data loading. The app dynamically loads and stores weather data for each Disney park, making it easy to access up-to-date conditions. Users can effortlessly toggle between different Disney parks worldwide, instantly updating weather details. Custom-designed day/night cycle animations and thematic visuals shift in real time, reflecting the unique atmosphere of each location. The app automatically adjusts to local park time zones, ensuring accurate weather updates that align with the user's visit. By combining real-time weather data, fluid UI interactions, and immersive illustrations, Magic+ transforms a simple weather app into an engaging experience, making planning a Disney trip both fun and informative.",
+    "tools": ["Angular", "HTML", "CSS", "Adobe Illustrator"]
+  },
+  {
+    "id": "pokemon-generations",
+    "template": "casestudy",
+    "link": "/works/Pokemon-Generations-CLI-Game.zip",
+    "target": "_blank",
+    "img": "/works/img/Pokemon_Generations.png",
+    "img2": "",
+    "img3": "",
+    "img4": "",
+    "img5": "",
+    "video": "",
+    "title": "Pokemon Generations",
+    "overview": "Pokemon Generations is a Python-based game featuring a unique Pokemon Matchmaker, pairing players with a team for wild battles. Soon expanding to PyGame, it will include trainer battles, enhancing the gameplay experience.",
+    "challenge": "The challenge was to develop a dynamic and engaging Pokémon experience where players are randomly assigned a team based on a quiz-style Matchmaker. The Pokémon selected needed to have randomized movesets aligned with their types, ensuring variety in battles. Additionally, the game had to support a progression system where players battle gym leaders and the Elite Four, strategically healing and swapping Pokémon through wild encounters. Balancing randomization, strategy, and player agency was crucial in making the experience feel both challenging and rewarding while staying true to the Pokémon formula.",
+    "solution": "To achieve this, I built a Python-based game that incorporates: Players answer questions to determine their starting team, making each playthrough unique. Pokémon are assigned moves based on their types, ensuring a balanced yet unpredictable battle system. Each gym leader and Elite Four member has a team that aligns with their type specialty, creating a structured challenge. Players can heal and swap Pokémon through encounters, adding an element of team management. As the game expands into PyGame, trainer battles and enhanced gameplay mechanics will further enrich the experience, making Pokémon Generations a strategic and replayable adventure for Pokémon fans.",
+    "tools": ["Python", "WIP PyGame"]
+  }
+]

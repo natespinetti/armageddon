@@ -37,8 +37,8 @@ export default function BentoGrid() {
           layout
         >
           <div className="p-4 sm:p-6 h-full flex flex-col items-center justify-center gap-6">
-            <ThreeDButton href="/resume/Nathan_Spinetti_Resume.pdf" newTab>View resume</ThreeDButton>
-            <ThreeDButton href="mailto:nate.spinetti@gmail.com" newTab>Email me</ThreeDButton>
+            <ThreeDButton classes="sm:w-full" href="/resume/Nathan_Spinetti_Resume.pdf" newTab>View resume</ThreeDButton>
+            <ThreeDButton classes="sm:w-full" href="mailto:nate.spinetti@gmail.com" newTab>Email me</ThreeDButton>
           </div>
         </motion.div>
         <motion.div

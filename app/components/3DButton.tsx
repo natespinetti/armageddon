@@ -8,9 +8,10 @@ interface ThreeDButtonProps {
   href?: string;
   onClick?: () => void;
   newTab?: boolean;
+  classes?: string;
 }
 
-export default function ThreeDButton({ children, href, onClick, newTab = false }: ThreeDButtonProps) {
+export default function ThreeDButton({ children, href, onClick, classes, newTab = false }: ThreeDButtonProps) {
   const buttonClasses =
     "relative w-full sm:w-fit px-3 py-2 sm:px-6 sm:py-3 text-sm sm:text-lg text-text bg-gold rounded-lg font-semibold text-center ease-in-out hover:bg-[#f2c713] duration-3";
 
@@ -25,7 +26,7 @@ export default function ThreeDButton({ children, href, onClick, newTab = false }
       <Link href={href} passHref legacyBehavior>
         <motion.a
           {...motionProps}
-          className={buttonClasses}
+          className={buttonClasses + " " + classes}
           target={newTab ? "_blank" : "_self"}
           rel={newTab ? "noopener noreferrer" : undefined}
         >
