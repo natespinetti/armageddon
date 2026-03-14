@@ -1,5 +1,25 @@
 [
   {
+    "id": "workhuman-forum-london-2026",
+    "template": "mini",
+    "link": "https://www.workhumanlive.com/forum/london-2026/",
+    "target": "_blank",
+    "img": "/works/img/WHF_LON_SocialThumbnail.webp",
+    "shorthand": "Workhuman Forum London",
+    "title": "Workhuman Forum London 2026",
+    "content": "The first Workhuman Forum site launched on our newest tech stack and the debut of a standalone brand identity separate from our flagship events. This project set a new foundation for Forum with a more modern, scalable, and flexible digital experience."
+  },
+  {
+    "id": "workhuman-forum-paris-2025",
+    "template": "mini",
+    "link": "https://whlive-archive.vercel.app/sites/forum/paris-2025",
+    "target": "_blank",
+    "img": "/works/img/WHF_Paris25.jpg",
+    "shorthand": "Workhuman Forum Paris",
+    "title": "Workhuman Forum Paris 2025",
+    "content": "Created in partnership with Unleash, Workhuman Forum Paris 2025 was a collaborative event experience shaped through close work with design and development. I led the dev team, helping define reusable site components, assign and review implementation work, and mentor developers on the platform's unique capabilities."
+  },
+  {
     "id": "magic",
     "template": "mini",
     "link": "https://magic-ten.vercel.app/",
@@ -119,6 +139,26 @@
     "img": "/works/img/full-circle.jpg",
     "title": "Full Circle",
     "content": "I designed the brand and packaging for Full Circle, an organic hygiene brand. The name Full Circle represents the brand's closed-loop approach of reusing bottles, which can be done with a one-time purchase or a monthly subscription fee."
+  },
+  {
+    "id": "workhuman-forum-london-2025",
+    "template": "mini",
+    "link": "https://whlive-archive.vercel.app/sites/forum/london-2025",
+    "target": "_blank",
+    "img": "/works/img/WHF_25.jpg",
+    "shorthand": "London Forum 2025",
+    "title": "Workhuman Forum | London 2025",
+    "content": "This years Workhuman Forum followed the lead of Workhuman Live Denver 2025, with a fresh, modern design that aptly reflects both the city's vibe and the essence of the event."
+  },
+  {
+    "id": "workhuman-live-forum-london-2024",
+    "template": "mini",
+    "link": "https://whlive-archive.vercel.app/sites/forum/london-2024",
+    "target": "_blank",
+    "img": "/works/img/WHF24.jpg",
+    "shorthand": "London Forum 2024",
+    "title": "Workhuman Live Forum | London 2024",
+    "content": "This years Workhuman Forum followed the lead of Workhuman Live Austin 2024, with a fresh, modern design that aptly reflects both the city's vibe and the essence of the event."
   },
   {
     "id": "workhuman-live-forum-london-2023",

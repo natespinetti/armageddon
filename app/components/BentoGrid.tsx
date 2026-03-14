@@ -24,10 +24,9 @@ export default function BentoGrid() {
           `}
           layout
         >
-          <div className="p-6 h-full flex flex-col">
+          <div className="p-6 h-full gap-4 flex flex-col">
             <Image src={"./NSLogo.svg"} alt={"Nathan Spinetti Logo"} width={70} height={70} className="rounded-lg sm:w-[100px] sm:h-[100px]" />
-            <p className="text-text mt-[auto] pt-4 sm:pt-0 text-base sm:text-lg">I&apos;m Nathan, a developer from Boston specializing in React, Next.js, and AWS. 
-                I&apos;m passionate about clean UI, AI, accessibility, and scalable full stack web apps.
+            <p className="text-text mt-[auto] pt-4 sm:pt-0 text-base sm:text-lg">Full Stack Software Engineer specializing in <span className="font-bold">React, TypeScript, Python, and AWS serverless architectures</span>. Experienced in building <span className="font-bold">real-time event platforms, scalable APIs, and AI-powered features</span> used by thousands of users across high-traffic SaaS environments.
             </p>
           </div>
         </motion.div>
@@ -59,7 +58,7 @@ export default function BentoGrid() {
         <div className={`relative gap-4 sm:gap-0 sm:min-h-[500px] h-full sm:h-[500px] flex flex-col overflow-hidden transition-all w-full sm:w-[calc(66.666%-8px)] justify-between`}>
             <ProjectBox classes={`animate-fade1 relative rounded-3xl items-end flex cursor-pointer border-2 overflow-hidden transition-all h-[242px]
                 hover:shadow-[0_5px_24px_0px_rgba(100,100,111,0.1)] ease-in-out duration-300`} 
-                img={`url(./denverwhl.jpg)`} imgsize={`cover`} imgpos={`right`} buttonname={`View Workhuman Live`} buttonlink={`/works/workhuman-live-denver-2025`} 
+                img={`url(./denverwhl.jpg)`} imgsize={`cover`} imgpos={`right`} buttonname={`View Workhuman Live`} buttonlink={`/works/workhuman-live-orlando-2026`} 
             />
 
             <div className="flex flex-row justify-between">
