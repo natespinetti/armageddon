@@ -26,7 +26,7 @@ export default function BentoGrid() {
         >
           <div className="p-6 h-full gap-4 flex flex-col">
             <Image src={"./NSLogo.svg"} alt={"Nathan Spinetti Logo"} width={70} height={70} className="rounded-lg sm:w-[100px] sm:h-[100px]" />
-            <p className="text-text mt-[auto] pt-4 sm:pt-0 text-base sm:text-lg">Frontend-focused full stack engineer with a track record of taking on complex platform challenges — rebuilding systems for scale, optimizing for performance, and shipping reliable production features fast. Experienced with React, TypeScript, Next.js, and AWS across SaaS products ranging from high-traffic marketing platforms to real-time event infrastructure. Brings a design background to frontend work that most engineers don't.
+            <p className="text-text mt-[auto] pt-4 sm:pt-0 text-base sm:text-lg">Frontend-focused full stack engineer with a track record of solving complex platform challenges — rebuilding systems for scale, optimizing performance, and delivering reliable production features. Experienced with <span className="font-bold">React, TypeScript, Next.js, and AWS</span> across SaaS products ranging from high-traffic marketing platforms to real-time event infrastructure. Combines engineering execution with a formal design background, bringing stronger UX judgment and frontend polish to teams.
             </p>
           </div>
         </motion.div>
